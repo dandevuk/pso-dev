@@ -1,0 +1,2 @@
+<h1 style="width:960px;margin: 0 auto">Ward/Department Manager Area</h1><div class="admin-menu-wrapper">	<button class="admin-menu-container" onclick="location.href='ward-cd-audit.php';">			<div class="admin-icon">			<i class="fas fa-search"></i>		</div>		Ward CD<br>Audit	</button>
+</div>

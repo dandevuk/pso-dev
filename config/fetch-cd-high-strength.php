@@ -1,0 +1,1 @@
+<?php 	$sql = "SELECT cdHighName FROM cdhighstrength ORDER BY cdHighName";	$stmtHigh = sqlsrv_query( $conn, $sql );	if( $stmtHigh === false) {		die( print_r( sqlsrv_errors(), true) );	}	?>

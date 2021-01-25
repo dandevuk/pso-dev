@@ -1,0 +1,2 @@
+<h1 style="width:960px;margin: 0 auto">Dispensary User Area</h1><div class="admin-menu-wrapper">	<button class="admin-menu-container" onclick="location.href='delete-cd-requisition.php';">			<div class="admin-icon">			<i class="fas fa-folder-minus"></i>		</div>		Delete CD<br>Requisition	</button>
+</div>
